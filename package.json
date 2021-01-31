@@ -1,0 +1,19 @@
+{
+  "name": "umrn",
+  "version": "1.0.0",
+  "description": "A lightweight, standards-compliant implementation of the Cinco Unique MIDI Routing Number specification written in pure JavaScript",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaamison/umrn.git"
+  },
+  "keywords": [
+    "UMRN",
+    "MIDI",
+    "Cinco",
+    "Unique MIDI Routing Number"
+  ],
+  "author": "Jamison Judge",
+  "license": "MIT",
+  "homepage": "https://github.com/jaamison/umrn#readme"
+}
